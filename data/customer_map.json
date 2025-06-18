@@ -1,0 +1,5372 @@
+{
+  "CUS-UT304": {
+    "contact_name": "Seven Seas Infotech LLC",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "185.64.26.223": {
+            "rate": 0.66,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "185.64.26.223": {
+            "rate": 0.3,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT367": {
+    "contact_name": "SEVEN SEAS HITECH SYSTEMS PRIVATE LIMITED",
+    "projects": {
+      "StartUp": {
+        "project_id": "26",
+        "pricing": {
+          "13.232.60.144": {
+            "rate": 150,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT179": {
+    "contact_name": "7D Security Solution",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "35.154.134.64": {
+            "rate": 22,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT005": {
+    "contact_name": "A & M Tracking",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT196": {
+    "contact_name": "A S Enterprises",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.127.144.213": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT008": {
+    "contact_name": "AUTOMOBILE ASSOCIATION OF KENYA",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT004": {
+    "contact_name": "Abstrack Solutions Limited",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT182": {
+    "contact_name": "ABT Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 350,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT102": {
+    "contact_name": "AC Track",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "54.193.100.127": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT183": {
+    "contact_name": "Acumen Traders",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.127.144.213": {
+            "rate": 23,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT186": {
+    "contact_name": "Aditi Tracking Support Private Limited-Software",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "54.193.100.127": {
+            "rate": 50,
+            "currency": "INR"
+          },
+          "13.126.244.90": {
+            "rate": 24,
+            "currency": "INR"
+          }
+        }
+      },
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "43.204.188.112": {
+            "rate": 20,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT317": {
+    "contact_name": "Apex Solutions",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "35.154.134.64": {
+            "rate": 25,
+            "currency": "INR"
+          },
+          "13.235.222.51": {
+            "rate": 59,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT061": {
+    "contact_name": "PC Centre FMS ( Pty ) Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 12.5,
+            "currency": "USD"
+          },
+          "197.188.238.44": {
+            "rate": 12.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT188": {
+    "contact_name": "Agrotika Ventures Pvt Ltd",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.232.13.233": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT104": {
+    "contact_name": "Akiwe Business Solutions Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT190": {
+    "contact_name": "Akshat Enterprises",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      },
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.235.222.51": {
+            "rate": 23,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT303": {
+    "contact_name": "Al Jibal Information Technology",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "31.204.128.153": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT047": {
+    "contact_name": "Alarmmaster (Pty) Ltd",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "41.164.82.60": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT191": {
+    "contact_name": "ALBA URMET COMMUNICATION AND SECURITY PVT. LTD",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT192": {
+    "contact_name": "Algomatix Technology Private Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT069": {
+    "contact_name": "Alkkon Tek",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "18.229.217.73": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT193": {
+    "contact_name": "Alpha Tech Services",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 250,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 150,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 350,
+            "currency": "INR"
+          }
+        }
+      },
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "43.204.20.184": {
+            "rate": 230,
+            "currency": "INR"
+          },
+          "13.127.96.143": {
+            "rate": 230,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT002": {
+    "contact_name": "ANS IT India Private Limited - Software",
+    "projects": {
+      "Trakzee_Mini": {
+        "project_id": "52",
+        "pricing": {
+          "15.207.49.109": {
+            "rate": 22.5,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "15.206.7.97": {
+            "rate": 22.5,
+            "currency": "INR"
+          },
+          "13.233.185.89": {
+            "rate": 22.5,
+            "currency": "INR"
+          },
+          "13.235.92.112": {
+            "rate": 22.5,
+            "currency": "INR"
+          }
+        }
+      },
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "35.154.134.64": {
+            "rate": 22.5,
+            "currency": "INR"
+          },
+          "13.127.89.55": {
+            "rate": 22.5,
+            "currency": "INR"
+          },
+          "13.126.34.196": {
+            "rate": 22.5,
+            "currency": "INR"
+          }
+        }
+      },
+      "Smartbus_Students": {
+        "project_id": "16",
+        "pricing": {
+          "13.232.250.35": {
+            "rate": 22.5,
+            "currency": "INR"
+          }
+        }
+      },
+      "Delivery Desk": {
+        "project_id": "22",
+        "pricing": {
+          "13.127.89.55": {
+            "rate": 22.5,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.233.185.89": {
+            "rate": 22.5,
+            "currency": "INR"
+          },
+          "198.54.112.81": {
+            "rate": 22.5,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.233.185.89": {
+            "rate": 13.5,
+            "currency": "INR"
+          },
+          "198.54.112.81": {
+            "rate": 13.5,
+            "currency": "INR"
+          },
+          "13.235.92.112": {
+            "rate": 13.5,
+            "currency": "INR"
+          }
+        }
+      },
+      "Smart West": {
+        "project_id": "46",
+        "pricing": {
+          "13.233.185.89": {
+            "rate": 60,
+            "currency": "INR"
+          }
+        }
+      },
+      "Elexee": {
+        "project_id": "59",
+        "pricing": {
+          "13.233.185.89": {
+            "rate": 49,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT337": {
+    "contact_name": "ANT 3I TECHNOLOGIES LLP",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "3.7.16.195": {
+            "rate": 45,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT106": {
+    "contact_name": "ANZ Tech Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "16.50.11.223": {
+            "rate": 1,
+            "currency": "USD"
+          },
+          "13.127.228.11": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT107": {
+    "contact_name": "APTracking Ltd",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "18.169.33.248": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT038": {
+    "contact_name": "Aplika Technology",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT108": {
+    "contact_name": "Arvo Solutions Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "18.169.33.248": {
+            "rate": 1.8,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "18.169.33.248": {
+            "rate": 0.6,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "18.169.33.248": {
+            "rate": 1.2,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT007": {
+    "contact_name": "Asyx Group Co Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT087": {
+    "contact_name": "ATPM BRUSSELS",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT198": {
+    "contact_name": "Auro Trade",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.232.13.233": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT199": {
+    "contact_name": "Autofurze Travel Solutions Private Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT109": {
+    "contact_name": "Auto Track",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 8,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT332": {
+    "contact_name": "Automation Manifold Services Pvt Ltd",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 40,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT110": {
+    "contact_name": "Auto Track Solutions Limited",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "54.193.100.127": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT200": {
+    "contact_name": "AV Technology Solutions",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.127.144.213": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT111": {
+    "contact_name": "Avava Zainouba LLC",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "157.175.246.128": {
+            "rate": 1.8,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT112": {
+    "contact_name": "AVEVAI PTE LTD",
+    "projects": {
+      "Elexee": {
+        "project_id": "59",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 9,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT039": {
+    "contact_name": "B Track Morocco",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.9,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT201": {
+    "contact_name": "Balkhi Traders",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT113": {
+    "contact_name": "BCL Green Energy and Safety WLL",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "157.175.107.239": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT202": {
+    "contact_name": "Bizzmantra Business Associates Pvt Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      },
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.127.144.213": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT363": {
+    "contact_name": "BMF ENGINEERING SERVICES PRIVATE LIMITED",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 36,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT114": {
+    "contact_name": "Bongo Technology",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.213.212.113": {
+            "rate": 15,
+            "currency": "INR"
+          },
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.213.212.113": {
+            "rate": 35,
+            "currency": "INR"
+          },
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      },
+      "Smart West": {
+        "project_id": "46",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 60,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT204": {
+    "contact_name": "BPN Solutions Pvt Ltd",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT115": {
+    "contact_name": "Bryanna & Juliet Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT009": {
+    "contact_name": "Bullz Eye Logistics",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT048": {
+    "contact_name": "CanLink Pvt Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT088": {
+    "contact_name": "Car Tracker Nigeria",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT070": {
+    "contact_name": "Centinel GPS S.A",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "54.193.100.127": {
+            "rate": 2,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT071": {
+    "contact_name": "CIA SAT GERENCIAMENTO VIA SATELITE LTDA",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "54.193.100.127": {
+            "rate": 1,
+            "currency": "USD"
+          },
+          "18.229.217.73": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      },
+      "Smart West": {
+        "project_id": "46",
+        "pricing": {
+          "18.229.217.73": {
+            "rate": 2.4,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT089": {
+    "contact_name": "Citywatch IT Solutions",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT207": {
+    "contact_name": "Compass Telematics Private Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "43.204.20.184": {
+            "rate": 25,
+            "currency": "INR"
+          },
+          "13.235.222.51": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT208": {
+    "contact_name": "Conscious Edge Tech Consulting Pvt Ltd",
+    "projects": {
+      "Trakzee_Mini": {
+        "project_id": "52",
+        "pricing": {
+          "3.6.151.254": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      },
+      "Elexee": {
+        "project_id": "59",
+        "pricing": {
+          "3.6.151.254": {
+            "rate": 60,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "3.6.151.254": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "3.6.151.254": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT072": {
+    "contact_name": "COSILIM",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "18.229.217.73": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "18.229.217.73": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT073": {
+    "contact_name": "Cosmos Trak",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "54.193.100.127": {
+            "rate": 0.8,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT209": {
+    "contact_name": "C Park Solutions LLP",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "35.154.134.64": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT049": {
+    "contact_name": "Cyber-Tronix Corporation t/a Track-Tronix,",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT362": {
+    "contact_name": "Dashflow Technolity LLP",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "3.7.16.195": {
+            "rate": 50,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT118": {
+    "contact_name": "DBA-GPSit",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "54.193.100.127": {
+            "rate": 1.8,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT357": {
+    "contact_name": "Decade International Pvt ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "3.7.16.195": {
+            "rate": 500,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT210": {
+    "contact_name": "Design and Technologies",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT010": {
+    "contact_name": "Drib Technologies & Logistics",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT213": {
+    "contact_name": "Dynamic Sales and Services",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT012": {
+    "contact_name": "E&A TELEMATICS",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT214": {
+    "contact_name": "Eagle Enterprise",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.232.13.233": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT011": {
+    "contact_name": "Earth Engineers Limited",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT074": {
+    "contact_name": "easytrack · gps tracker · telematics GmbH",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "54.247.87.210": {
+            "rate": 0.9,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT119": {
+    "contact_name": "EFM",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT013": {
+    "contact_name": "EJTRACK AFRICA",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT075": {
+    "contact_name": "Elesat",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "18.229.217.73": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT352": {
+    "contact_name": "Emocom Technologies and Consulting",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 22,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT076": {
+    "contact_name": "ENGEMEC - Engenharia de Manutenção",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "18.229.217.73": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "18.229.217.73": {
+            "rate": 0.8,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT141": {
+    "contact_name": "Localiz'toi",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "18.169.33.248": {
+            "rate": 1.2,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT358": {
+    "contact_name": "Equpoint Properties Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT120": {
+    "contact_name": "Ersel Tech SARL",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT217": {
+    "contact_name": "Esecurewings",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT218": {
+    "contact_name": "Eyesline Telematics Private Limited",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "43.204.20.184": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT090": {
+    "contact_name": "Faso Smart",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT040": {
+    "contact_name": "FEDA IT CONSULTING",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "95.217.136.154": {
+            "rate": 10,
+            "currency": "USD"
+          },
+          "13.245.46.90": {
+            "rate": 10,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT077": {
+    "contact_name": "Fieldcorp",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "18.229.217.73": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT121": {
+    "contact_name": "FIND ME Rastreo Satelital GPS",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "54.193.100.127": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "54.193.100.127": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT050": {
+    "contact_name": "FINDMYSTUFF (PTY) LTD",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.6,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT014": {
+    "contact_name": "Fleet Connect Limited",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT051": {
+    "contact_name": "Fleet & Fuel Management Services",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT052": {
+    "contact_name": "Fleet-Shield Tracking SA",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.85,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT320": {
+    "contact_name": "Fleetop Technologies",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT219": {
+    "contact_name": "Foxtrack Technology",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT329": {
+    "contact_name": "Fupo Techlabs Private Limited",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "98.70.54.41": {
+            "rate": 25,
+            "currency": "INR"
+          },
+          "3.7.16.195": {
+            "rate": 30,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT220": {
+    "contact_name": "Fusion Telematics",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.127.144.213": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT091": {
+    "contact_name": "Gambus Energy Ltd",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 5,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 16,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT316": {
+    "contact_name": "Geomatics",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 20,
+            "currency": "INR"
+          }
+        }
+      },
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.127.144.213": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT222": {
+    "contact_name": "GeoMetric Survey & Design Consultant Services",
+    "projects": {
+      "Smart West": {
+        "project_id": "46",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 75,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT041": {
+    "contact_name": "Geoprime Afric SARL",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT122": {
+    "contact_name": "Giar Business Solution",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "16.50.11.223": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT309": {
+    "contact_name": "GICHLIGHT SOLUTIONS",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT223": {
+    "contact_name": "Global Tech Business Solutions",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.235.222.51": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT224": {
+    "contact_name": "Global Tracking Solutions",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.232.13.233": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT335": {
+    "contact_name": "GOPAL JIU ENTERPRISES SALES & SERVICE CARE",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "3.7.16.195": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT093": {
+    "contact_name": "Goshen Investment Consultancy Group",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 8,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT053": {
+    "contact_name": "GOSMART FUEL AND TECHNOLOGY SUPPLIES CC",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT123": {
+    "contact_name": "GPS 2000",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT078": {
+    "contact_name": "GPS Floats Chile",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "18.229.217.73": {
+            "rate": 0.8,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT321": {
+    "contact_name": "GPS TRACKINGWALE",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT124": {
+    "contact_name": "GPS Angola",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.15,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT125": {
+    "contact_name": "GPS-WIFI.COM",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "18.169.33.248": {
+            "rate": 0.6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT116": {
+    "contact_name": "Carsem Group",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "54.193.100.127": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT035": {
+    "contact_name": "GS MANAGEMENT",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "18.169.33.248": {
+            "rate": 2,
+            "currency": "EURO"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT226": {
+    "contact_name": "Gwtrackers Electronic Security Systems Pvt Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      },
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.232.13.233": {
+            "rate": 19,
+            "currency": "INR"
+          },
+          "13.235.165.37": {
+            "rate": 19,
+            "currency": "INR"
+          }
+        }
+      },
+      "Smartbus_Students": {
+        "project_id": "16",
+        "pricing": {
+          "13.235.165.37": {
+            "rate": 19,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT228": {
+    "contact_name": "HARDCASTLE Agrotech Solutions pvt ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 40,
+            "currency": "INR"
+          },
+          "54.193.100.127": {
+            "rate": 40,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT127": {
+    "contact_name": "Hawkeye Security PNG",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "54.193.100.127": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT042": {
+    "contact_name": "Hawk Systems",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT129": {
+    "contact_name": "Hi-Tech Systems",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT230": {
+    "contact_name": "H L Technologies",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "15.207.50.246": {
+            "rate": 22,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT130": {
+    "contact_name": "Holocron Tracker Trading",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.213.212.113": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.213.212.113": {
+            "rate": 2,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT094": {
+    "contact_name": "Inova",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      },
+      "Smartbus_Students": {
+        "project_id": "46",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 2.4,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT318": {
+    "contact_name": "Inchara Technologies",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "43.204.20.184": {
+            "rate": 30,
+            "currency": "INR"
+          }
+        }
+      },
+      "Smartbus_Students": {
+        "project_id": "16",
+        "pricing": {
+          "43.204.20.184": {
+            "rate": 30,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 20,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 30,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT282": {
+    "contact_name": "SR Transport Management Services Pvt Ltd",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 20,
+            "currency": "INR"
+          }
+        }
+      },
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "3.6.83.119": {
+            "rate": 22,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT134": {
+    "contact_name": "INDO CAN SYSTEMS INC.",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "3.135.84.35": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT334": {
+    "contact_name": "INGENIOS SMART TECHNOLOGIES (OPC) PRIVATE LIMITED",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      },
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.235.222.51": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT323": {
+    "contact_name": "Interaxe Technologies",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT364": {
+    "contact_name": "JUSTRACK IOT PRIVATE LIMITED",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "43.204.20.184": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Smartbus_Students": {
+        "project_id": "16",
+        "pricing": {
+          "43.204.20.184": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT117": {
+    "contact_name": "CarTech Automotive Technologies Ltd (Trading as iTrack)",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT232": {
+    "contact_name": "ITrade Teleamtics",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT095": {
+    "contact_name": "JAYMED-HAN GHANA LIMITED",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT137": {
+    "contact_name": "Jimcab Services Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 2,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT138": {
+    "contact_name": "Jovalens Consults Services Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT324": {
+    "contact_name": "J.S.ENTERPRISES",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "43.204.20.184": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT326": {
+    "contact_name": "Juggernaut Ventures",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "3.7.13.145": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT234": {
+    "contact_name": "K B Tech",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.235.222.51": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT055": {
+    "contact_name": "Kewalpershad Holdings (Pty) Ltd",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.9,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.35,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT336": {
+    "contact_name": "KAASHWI VEHICLE CARE",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "3.7.16.195": {
+            "rate": 300,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT016": {
+    "contact_name": "KAMINT ENTERPRISE",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT139": {
+    "contact_name": "KARI ADVANCED TECHNOLOGIES (U)LTD",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT187": {
+    "contact_name": "Advait Teleservices Private Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT017": {
+    "contact_name": "Kimii Travels Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT056": {
+    "contact_name": "Latrom systems",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.1,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT057": {
+    "contact_name": "Lehlasedi Technology CC",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT079": {
+    "contact_name": "Lifesat",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "18.229.217.73": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT018": {
+    "contact_name": "Ligtas Tracking Limited",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT019": {
+    "contact_name": "LIONS AUTO SERVICES EAST AFRICA LIMITED,",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT237": {
+    "contact_name": "LOGIC LABS INFOTRONICS LIMITED",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.127.144.213": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT142": {
+    "contact_name": "Lulua-Alhibar",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "157.175.107.239": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "157.175.107.239": {
+            "rate": 0.8,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT238": {
+    "contact_name": "LxGio India Pvt Ltd",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT020": {
+    "contact_name": "Magilu investment and technology supply",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT006": {
+    "contact_name": "Malmoza Logistics",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.34,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT036": {
+    "contact_name": "Martin Motor Group",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "18.169.33.248": {
+            "rate": 2,
+            "currency": "EURO"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT339": {
+    "contact_name": "MASROM SUPPLY CHAIN SOLUTIONS PRIVATE LIMITED",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "3.7.16.195": {
+            "rate": 600,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT022": {
+    "contact_name": "MAXTRANZ TECHNOLOGIES AFRICA(U) LIMITED",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT242": {
+    "contact_name": "Megasoft Systems",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "43.204.20.184": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT330": {
+    "contact_name": "MINDSHIFT APPLICATIONS AND SOLUTIONS PRIVATE LIMITED",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT315": {
+    "contact_name": "AVYA ENTERPRISES",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "35.154.134.64": {
+            "rate": 21,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT243": {
+    "contact_name": "MNSS Technology Private Limited",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      },
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.232.13.233": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT327": {
+    "contact_name": "Telit Communications India Pvt Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 33,
+            "currency": "INR"
+          },
+          "54.193.100.127": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT245": {
+    "contact_name": "Mohanta Infratech Private Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT247": {
+    "contact_name": "Motorobo Telematics",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.127.144.213": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT143": {
+    "contact_name": "MLL Technologies",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT066": {
+    "contact_name": "Thabang Motshidisi Moraka, a MTM Management and Services,",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT023": {
+    "contact_name": "Multiside Technologies Limited",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT248": {
+    "contact_name": "MYGTS Services",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 20,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT322": {
+    "contact_name": "N U Technology",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "3.6.83.119": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "3.7.16.195": {
+            "rate": 45,
+            "currency": "INR"
+          },
+          "13.127.228.11": {
+            "rate": 45,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT025": {
+    "contact_name": "NEBSAM DIGITAL SOLUTIONS",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT059": {
+    "contact_name": "NETSTAR (PROPRIETARY) LIMITED",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.244.236.14": {
+            "rate": 1.25,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT058": {
+    "contact_name": "Netstar Australia Holdings Pty Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.210.170.72": {
+            "rate": 1.25,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT145": {
+    "contact_name": "NKONGOLAKO CASH SERVICES LTD,",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT361": {
+    "contact_name": "North Ocean Enterprises LLC",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "161.8.102.49": {
+            "rate": 15,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT250": {
+    "contact_name": "NrXen IT Technologies Private Limited",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 5,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      },
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.127.144.213": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT278": {
+    "contact_name": "SPBI Solutions",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "3.6.83.119": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT043": {
+    "contact_name": "Numotronic",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "54.247.87.210": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "54.247.87.210": {
+            "rate": 2,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT147": {
+    "contact_name": "O-Koontrol",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT146": {
+    "contact_name": "Office Data Ghana",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 1,
+            "currency": "USD"
+          },
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT149": {
+    "contact_name": "On Track GPS Fleet Solutions",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "16.50.11.223": {
+            "rate": 2,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT148": {
+    "contact_name": "Oneflet Solution Co Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT031": {
+    "contact_name": "Tantrack Africa",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.8,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT044": {
+    "contact_name": "PALACIO CAR",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT060": {
+    "contact_name": "Uffizio t/a Parallel Solutions",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 1.5,
+            "currency": "USD"
+          },
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT331": {
+    "contact_name": "Parinda Track",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 250,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT153": {
+    "contact_name": "Patmo Tanzania Limited",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT252": {
+    "contact_name": "Pictor Software Pvt. Ltd.",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.127.144.213": {
+            "rate": 19,
+            "currency": "INR"
+          },
+          "13.232.130.72": {
+            "rate": 19,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 225,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT027": {
+    "contact_name": "Porting Four Limited",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT307": {
+    "contact_name": "SKAIS SARL",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT310": {
+    "contact_name": "PRIME TRACK ZAMBIA LTD",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT028": {
+    "contact_name": "Primus Auto Solutions",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT154": {
+    "contact_name": "Pro Ice Sales & Services ( M )Sdn. Bhd. (166300X)",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.213.212.113": {
+            "rate": 0.83,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Mini": {
+        "project_id": "52",
+        "pricing": {
+          "15.207.49.109": {
+            "rate": 3,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT257": {
+    "contact_name": "Protrack GPS Technology Pvt. Ltd.",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.235.222.51": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT302": {
+    "contact_name": "PSDN TECHNOLOGY PRIVATE LIMITED",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "3.7.16.195": {
+            "rate": 20,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT258": {
+    "contact_name": "Qtloads Tech & Transit Private Limited",
+    "projects": {
+      "Elexee": {
+        "project_id": "59",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 49,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 32,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 22,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 45,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT155": {
+    "contact_name": "Quartix Telematics Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 15,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT156": {
+    "contact_name": "Representaciones Globales Interactivas REGISA CR.,S.A.",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "54.193.100.127": {
+            "rate": 0.6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT259": {
+    "contact_name": "Rmade Technologies Private Limited",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 150,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT157": {
+    "contact_name": "Roberto Zammit (SmartTrack)",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "18.169.33.248": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "18.169.33.248": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT029": {
+    "contact_name": "Royal Track Solutions",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT261": {
+    "contact_name": "RTG Trackers",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 45,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT063": {
+    "contact_name": "SA Fleet Management Solutions (Pty) Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT062": {
+    "contact_name": "Safeguard Security Services (pvt) Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 9,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT262": {
+    "contact_name": "SAHAJ INFORMATICS PRIVATE LIMITED",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 26,
+            "currency": "INR"
+          },
+          "13.127.228.11": {
+            "rate": 26,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT263": {
+    "contact_name": "SAHARSH SOLUTIONS",
+    "projects": {
+      "Smart West": {
+        "project_id": "46",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 70,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 40,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 45,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT265": {
+    "contact_name": "Sarvam Automation",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.127.144.213": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT266": {
+    "contact_name": "Satcop India Private Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      },
+      "Smart West": {
+        "project_id": "46",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 60,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT356": {
+    "contact_name": "Bongo Technology - Saudi EX",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "158.101.239.53": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "158.101.239.53": {
+            "rate": 0.7,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "158.101.239.53": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT267": {
+    "contact_name": "Savitar Services Private Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT158": {
+    "contact_name": "satcom security system Africa smc limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          },
+          "13.127.228.11": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.5,
+            "currency": "USD"
+          },
+          "13.127.228.11": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT375": {
+    "contact_name": "Securewatch Solutions Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT269": {
+    "contact_name": "Secure Me Devices",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.127.144.213": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT081": {
+    "contact_name": "SHARK SECURITY SOLAR ENERGY",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "18.229.217.73": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT270": {
+    "contact_name": "Sharon Telematics Pvt Ltd",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "35.154.134.64": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT159": {
+    "contact_name": "Shazcom GPS",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "16.50.11.223": {
+            "rate": 0.6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT271": {
+    "contact_name": "Shree Balaji IT & Technology",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.127.144.213": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT241": {
+    "contact_name": "Maruti GPS India",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "43.204.20.184": {
+            "rate": 20,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT272": {
+    "contact_name": "Shree Samarth Enterprises",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 45,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT273": {
+    "contact_name": "Shree Technologies",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.127.144.213": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT160": {
+    "contact_name": "Silicon Valley Solutions",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 4,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 15,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT312": {
+    "contact_name": "Simple Tech Solutions Pvt. Ltd",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 20,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 40,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT305": {
+    "contact_name": "Simply Data Services Trading As Autotracking.Com.Au",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT319": {
+    "contact_name": "Singh Monitoring System",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT175": {
+    "contact_name": "Vision Track INC.",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "52.9.206.62": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "54.193.100.127": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT045": {
+    "contact_name": "Smart Card",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT275": {
+    "contact_name": "Smart Telematics & Ventures Pvt. Ltd",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.235.222.51": {
+            "rate": 22,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT276": {
+    "contact_name": "SMART WHEEL TECHNOLOGIES",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 150,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 350,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 250,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT354": {
+    "contact_name": "Societe Afri-Metal (SAM)",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT277": {
+    "contact_name": "Softomind Technologies Pvt Ltd",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT064": {
+    "contact_name": "Soltrack (Pty) Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT279": {
+    "contact_name": "Spectrum Embedded Solutions",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.235.222.51": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT152": {
+    "contact_name": "Speed Fitment and Service Centre",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT280": {
+    "contact_name": "Spinc Labs Private Limited",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT283": {
+    "contact_name": "SSD Technologies",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT065": {
+    "contact_name": "SS TRACKING SOLUTIONS",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT338": {
+    "contact_name": "Standard & Safe Movements Private Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "3.7.16.195": {
+            "rate": 40,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT328": {
+    "contact_name": "Suenos Mart",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT046": {
+    "contact_name": "STG Telematics",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "54.247.87.210": {
+            "rate": 0.83,
+            "currency": "USD"
+          },
+          "13.245.46.90": {
+            "rate": 0.75,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT313": {
+    "contact_name": "Sun tracking solution lda",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT082": {
+    "contact_name": "SYSTEM REDGPS SAS",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "18.229.217.73": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT164": {
+    "contact_name": "SYSTEMS TRACKSTAR GPS CORPORATION",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.213.212.113": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.213.212.113": {
+            "rate": 1,
+            "currency": "USD"
+          },
+          "13.127.228.11": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.213.212.113": {
+            "rate": 1.5,
+            "currency": "USD"
+          },
+          "13.127.228.11": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT165": {
+    "contact_name": "Techchoice Ltd",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "18.169.33.248": {
+            "rate": 3,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT284": {
+    "contact_name": "Techhop Enterprises Private Limited",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 350,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT285": {
+    "contact_name": "Technogarden Solutions LLP",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT032": {
+    "contact_name": "Technology Hub Uganda Ltd",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Mini": {
+        "project_id": "52",
+        "pricing": {
+          "15.207.49.109": {
+            "rate": 10,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT097": {
+    "contact_name": "TechServe Solutions",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT166": {
+    "contact_name": "Techtonika Autolink Pty Ltd",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "16.50.11.223": {
+            "rate": 0.75,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT288": {
+    "contact_name": "Tele Access Solutions",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT167": {
+    "contact_name": "Telemko Autolink Private Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "202.51.1.23": {
+            "rate": 30,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "202.51.1.23": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT098": {
+    "contact_name": "Tenece Professional Services",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT015": {
+    "contact_name": "Gentrack Solutions",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT289": {
+    "contact_name": "Tirth Elecronic Security Solutions",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.235.222.51": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT168": {
+    "contact_name": "Track and Trace Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT314": {
+    "contact_name": "TRACK AND TRACE SOLUTIONS AFRICA LTD",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT170": {
+    "contact_name": "Track 13 Systems",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT067": {
+    "contact_name": "Track IT",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT003": {
+    "contact_name": "Tracknovate Mobile Resource Management P Ltd",
+    "projects": {
+      "Smart West": {
+        "project_id": "46",
+        "pricing": {
+          "15.206.11.103": {
+            "rate": 29,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "15.206.11.103": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "15.206.11.103": {
+            "rate": 29,
+            "currency": "INR"
+          },
+          "13.235.213.74": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "15.206.11.103": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.235.213.74": {
+            "rate": 25,
+            "currency": "INR"
+          },
+          "13.234.242.1": {
+            "rate": 20,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT169": {
+    "contact_name": "TrackNow",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "54.247.87.210": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT293": {
+    "contact_name": "Track N Trace Systems",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 150,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 350,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 250,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT030": {
+    "contact_name": "Sekmac Core Systems",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT033": {
+    "contact_name": "T RAIL MY CAR",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 6,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT294": {
+    "contact_name": "Trackster IT Solutions (OPC) Private Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 49,
+            "currency": "INR"
+          }
+        }
+      },
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.126.168.165": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT099": {
+    "contact_name": "Trucksoft Logistics Limited",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT037": {
+    "contact_name": "Trusted Trackers",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "18.169.33.248": {
+            "rate": 1.9,
+            "currency": "EURO"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT172": {
+    "contact_name": "TTL, OBRT ZA AUTOTEHNIKU I DIZAJN, VL. ŽELJKO STIPIĆ",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "18.169.33.248": {
+            "rate": 0.6,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT173": {
+    "contact_name": "TURBOBITZ PTE. LTD",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "3.213.212.113": {
+            "rate": 2,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT084": {
+    "contact_name": "Up Keep Services",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "18.229.217.73": {
+            "rate": 1,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT306": {
+    "contact_name": "V Track - Congo",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 0.7,
+            "currency": "USD"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.8,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT298": {
+    "contact_name": "Value Track Technologies",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "35.154.134.64": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT085": {
+    "contact_name": "Vioss GPS",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "18.229.217.73": {
+            "rate": 0.8,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT325": {
+    "contact_name": "Global Technology",
+    "projects": {
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT301": {
+    "contact_name": "Waves Techx Solutions Pvt Ltd",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      },
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.235.222.51": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT333": {
+    "contact_name": "WESEVA SOLUTIONS",
+    "projects": {
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 20,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 30,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT246": {
+    "contact_name": "Morgen International",
+    "projects": {
+      "VTS": {
+        "project_id": "16",
+        "pricing": {
+          "13.127.144.213": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Lite": {
+        "project_id": "48",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 15,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Standard": {
+        "project_id": "49",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 25,
+            "currency": "INR"
+          }
+        }
+      },
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.127.228.11": {
+            "rate": 35,
+            "currency": "INR"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT176": {
+    "contact_name": "Yellow Hat Security Solutions Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "18.169.33.248": {
+            "rate": 18,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT132": {
+    "contact_name": "Imran Ali",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "18.169.33.248": {
+            "rate": 0.5,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT311": {
+    "contact_name": "Zamm Imports Ltd",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 12,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  },
+  "CUS-UT178": {
+    "contact_name": "Zuoix",
+    "projects": {
+      "Trakzee_Premium": {
+        "project_id": "37",
+        "pricing": {
+          "13.245.46.90": {
+            "rate": 1.8,
+            "currency": "USD"
+          }
+        }
+      }
+    }
+  }
+}

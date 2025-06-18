@@ -1,0 +1,187 @@
+[
+  {
+    "Customer Name": "Aditi",
+    "Customer Code": "CUS-UT186",
+    "Projects": [
+      {
+        "Project/Product Name": "Trakzee Premium",
+        "Project Id": "37",
+        "IP Addresses": ["54.193.100.127", "13.126.244.90"]
+      },
+      {
+        "Project/Product Name": "VTS",
+        "Project Id": "16",
+        "IP Addresses": ["43.204.188.112"]
+      },
+      {
+        "Project/Product Name": "Employee Pickup Project",
+        "Project Id": "51",
+        "IP Addresses": ["13.126.244.90"]
+      },
+      {
+        "Project/Product Name": "Smart School System",
+        "Project Id": "40",
+        "IP Addresses": ["13.126.244.90"]
+      },
+      {
+        "Project/Product Name": "TaskEye",
+        "Project Id": "41",
+        "IP Addresses": ["13.126.244.90"]
+      }
+    ]
+  },
+  {
+    "Customer Name": "Tracknovate",
+    "Customer Code": "CUS-UT003",
+    "Projects": [
+      {
+        "Project/Product Name": "Taskeye",
+        "Project Id": "41",
+        "IP Addresses": ["13.202.116.8"]
+      },
+      {
+        "Project/Product Name": "Smart Waste Management",
+        "Project Id": "46",
+        "IP Addresses": ["15.206.11.103"]
+      },
+      {
+        "Project/Product Name": "Trakzee Lite",
+        "Project Id": "48",
+        "IP Addresses": ["15.206.11.103"]
+      },
+      {
+        "Project/Product Name": "Trakzee Premium",
+        "Project Id": "37",
+        "IP Addresses": ["15.206.11.103", "13.235.213.74"]
+      },
+      {
+        "Project/Product Name": "Trakzee Standard",
+        "Project Id": "49",
+        "IP Addresses": ["15.206.11.103"]
+      },
+      {
+        "Project/Product Name": "VTS",
+        "Project Id": "16",
+        "IP Addresses": ["13.235.213.74", "13.234.242.1"]
+      },
+      {
+        "Project/Product Name": "School Bus Management",
+        "Project Id": "16",
+        "IP Addresses": ["13.234.242.1"]
+      }
+    ]
+  },
+  {
+    "Customer Name": "Satcop",
+    "Customer Code": "CUS-UT266",
+    "Projects": [
+      {
+        "Project/Product Name": "Trakzee Premium",
+        "Project Id": "37",
+        "IP Addresses": ["13.127.228.11"]
+      },
+      {
+        "Project/Product Name": "Smart Waste Management",
+        "Project Id": "46",
+        "IP Addresses": ["13.127.228.11"]
+      },
+      {
+        "Project/Product Name": "Taskeye",
+        "Project Id": "41",
+        "IP Addresses": ["13.127.228.11"]
+      },
+      {
+        "Project/Product Name": "Smart School System",
+        "Project Id": "40",
+        "IP Addresses": ["15.207.194.31"]
+      }
+    ]
+  },
+  {
+    "Customer Name": "Algomatix",
+    "Customer Code": "CUS-UT192",
+    "Projects": [
+      {
+        "Project/Product Name": "Trakzee Premium",
+        "Project Id": "37",
+        "IP Addresses": ["13.127.228.11"]
+      }
+    ]
+  },
+  {
+    "Customer Name": "ANS",
+    "Customer Code": "CUS-UT002",
+    "Projects": [
+      {
+        "Project/Product Name": "Smart School System",
+        "Project Id": "40",
+        "IP Addresses": ["15.207.194.31", "13.126.34.196"]
+      },
+      {
+        "Project/Product Name": "Trakzee Mini",
+        "Project Id": "52",
+        "IP Addresses": ["15.207.49.109"]
+      },
+      {
+        "Project/Product Name": "Trakzee Standard",
+        "Project Id": "49",
+        "IP Addresses": ["15.206.7.97", "13.233.185.89", "13.235.92.112"]
+      },
+      {
+        "Project/Product Name": "VTS",
+        "Project Id": "16",
+        "IP Addresses": [
+          "35.154.134.64",
+          "13.232.250.35",
+          "13.127.89.55",
+          "13.126.34.196"
+        ]
+      },
+      {
+        "Project/Product Name": "School Bus Management",
+        "Project Id": "16",
+        "IP Addresses": [
+          "35.154.134.64",
+          "13.232.250.35",
+          "13.127.89.55",
+          "13.126.34.196"
+        ]
+      },
+      {
+        "Project/Product Name": "Delivery Desk",
+        "Project Id": "22",
+        "IP Addresses": ["13.127.89.55"]
+      },
+      {
+        "Project/Product Name": "Logistics Management System",
+        "Project Id": "34",
+        "IP Addresses": ["13.233.185.89"]
+      },
+      {
+        "Project/Product Name": "Trakzee Premium",
+        "Project Id": "37",
+        "IP Addresses": ["13.233.185.89", "198.54.112.81"]
+      },
+      {
+        "Project/Product Name": "Trakzee Lite",
+        "Project Id": "48",
+        "IP Addresses": ["13.233.185.89", "198.54.112.81", "13.235.92.112"]
+      },
+      {
+        "Project/Product Name": "Smart Waste Management",
+        "Project Id": "46",
+        "IP Addresses": ["13.233.185.89"]
+      },
+      {
+        "Project/Product Name": "TaskEye",
+        "Project Id": "41",
+        "IP Addresses": ["13.233.185.89", "13.202.116.8"]
+      },
+      {
+        "Project/Product Name": "Elexee",
+        "Project Id": "59",
+        "IP Addresses": ["13.233.185.89"]
+      }
+    ]
+  }
+]

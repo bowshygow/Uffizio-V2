@@ -1,0 +1,118 @@
+{
+  "16": {
+    "item_id": "5839050000000145113",
+    "name": "VTS"
+  },
+  "22": {
+    "item_id": "5839050000000153007",
+    "name": "Delivery Desk"
+  },
+  "26": {
+    "item_id": "5839050000000153022",
+    "name": "StartUp"
+  },
+  "37": {
+    "item_id": "5839050000000145009",
+    "name": "Trakzee_Premium"
+  },
+  "40": {
+    "item_id": "5839050000000145083",
+    "name": "Smartbus_Students"
+  },
+  "41": {
+    "item_id": "5839050000000145098",
+    "name": "Taskeye"
+  },
+  "46": {
+    "item_id": "5839050000000145068",
+    "name": "Smart West"
+  },
+  "48": {
+    "item_id": "5839050000000145039",
+    "name": "Trakzee_Lite"
+  },
+  "49": {
+    "item_id": "5839050000000145024",
+    "name": "Trakzee_Standard"
+  },
+  "52": {
+    "item_id": "5839050000000145789",
+    "name": "Trakzee_Mini"
+  },
+  "59": {
+    "item_id": "5839050000000160720",
+    "name": "Elexee"
+  },
+  "125": {
+    "item_id": "5839050000000763839",
+    "name": "Interface"
+  },
+  "999": {
+    "item_id": "5839050000000223023",
+    "name": "DVR 2CH - Dash Camera 4G"
+  },
+  "1000": {
+    "item_id": "5839050000000155009",
+    "name": "Fuel Level Sensors-1000 mm"
+  },
+  "1010": {
+    "item_id": "5839050000000331285",
+    "name": "Information Technology Software Services"
+  },
+  "1050": {
+    "item_id": "5839050000000413033",
+    "name": "Development Charges"
+  },
+  "1205": {
+    "item_id": "5839050000000751009",
+    "name": "Bullet Camera"
+  },
+  "1206": {
+    "item_id": "5839050000000751044",
+    "name": "DMS Camera"
+  },
+  "1207": {
+    "item_id": "5839050000000751079",
+    "name": "FMB920AECO01- Richmore Camera"
+  },
+  "1208": {
+    "item_id": "5839050000000751116",
+    "name": "Mobile Dashcam V5"
+  },
+  "1500": {
+    "item_id": "5839050000000360063",
+    "name": "Fantom  - Fuel Level Sensors -1500mm"
+  },
+  "2000": {
+    "item_id": "5839050000000360286",
+    "name": "Fantom - Fuel Level Sensors - 2000 mm"
+  },
+  "3000": {
+    "item_id": "5839050000000360425",
+    "name": "Fantom - Fuel Level Sensors - 3000 mm"
+  },
+  "001": {
+    "item_id": "5839050000000360737",
+    "name": "Data Restoratation"
+  },
+  "003": {
+    "item_id": "5839050000000305714",
+    "name": "Distribution Charges"
+  },
+  "01000": {
+    "item_id": "5839050000000169338",
+    "name": "Fantom - Fuel Level Sensors - 1000mm"
+  },
+  "010001": {
+    "item_id": "5839050000000169401",
+    "name": "KATANA - Fuel Level Sensors - 1000mm"
+  },
+  "005": {
+    "item_id": "5839050000000145130",
+    "name": "Server Charges"
+  },
+  "002": {
+    "item_id": "5839050000000169048",
+    "name": "White label"
+  }
+}
