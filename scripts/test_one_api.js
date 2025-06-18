@@ -24,6 +24,7 @@ const body = {
     const res = await axios.post(url, body, {
       headers: { "Content-Type": "application/json" }
     });
+    console.log(res.data);
 
     const records = res.data?.data || [];
     const filtered = records.filter(v => v.ip === ipToFilter);
