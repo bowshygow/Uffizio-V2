@@ -16,7 +16,7 @@ const body = {
   adminCode,
   projectId,
   startDate: "2025-04-01 00:00:00",
-  endDate: "2025-04-30 00:00:00"
+  endDate: "2025-04-30 23:59:59"
 };
 
 (async () => {
