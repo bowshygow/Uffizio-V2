@@ -1,14 +1,15 @@
-// Dependencies
 const axios = require("axios");
-const XLSX = require("xlsx");
-const fs = require("fs");
 
-// Input (hardcoded for now)
-const adminCode = "CUS-UT186";
-const projectId = "37";
-const ipToFilter = "13.126.244.90";
+// Get arguments from the terminal
+const [, , adminCode, projectId, ipToFilter] = process.argv;
 
-// Updated API now accepts POST instead of GET
+// Check if all values are provided
+if (!adminCode || !projectId || !ipToFilter) {
+  console.error("❌ Usage: node script.js <adminCode> <projectId> <ipToFilter>");
+  process.exit(1);
+}
+
+// API setup
 const url = "https://zoho.uffizio.com:8445/billingservice/admin/vehicle_details?pageNo=1&pageSize=100000";
 
 const body = {
@@ -20,33 +21,16 @@ const body = {
 
 (async () => {
   try {
-    const response = await axios({
-      method: "post",
-      url: url,
-      headers: {
-        "Content-Type": "application/json"
-      },
-      data: body
+    const res = await axios.post(url, body, {
+      headers: { "Content-Type": "application/json" }
     });
 
-    const vehicles = response.data.data || [];
-    console.log(vehicles);
-    const matchingVehicles = vehicles.filter(vehicle => vehicle.ip === ipToFilter);
+    const records = res.data?.data || [];
+    const filtered = records.filter(v => v.ip === ipToFilter);
 
-    console.log(`Total Records Received: ${vehicles.length}`);
-    console.log(`Records matching IP ${ipToFilter}: ${matchingVehicles.length}`);
-
-    // Write full response to Excel
-    const sheet = XLSX.utils.json_to_sheet(vehicles);
-    const workbook = XLSX.utils.book_new();
-    XLSX.utils.book_append_sheet(workbook, sheet, "Vehicle Data");
-    XLSX.writeFile(workbook, "../output/full_vehicle_data.xlsx");
-
-    console.log("✅ Excel file saved: full_vehicle_data.xlsx");
-  } catch (error) {
-    console.error("Error while calling API:", error.message);
-    if (error.response) {
-      console.error("Response:", error.response.data);
-    }
+    console.log(`✅ Total records: ${records.length}`);
+    console.log(`📌 Records matching IP ${ipToFilter}: ${filtered.length}`);
+  } catch (err) {
+    console.error("❌ API call failed:", err.response?.data || err.message);
   }
 })();
