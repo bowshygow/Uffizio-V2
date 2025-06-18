@@ -86,7 +86,15 @@ async function getAccessToken() {
 
       for (let ip of ips) {
         const rateObj = pricingMap?.[customerCode]?.projects;
-        let rates = Object.values(rateObj).filter(v => v.project_id === projectId)?.[0];
+        let rates = rateObj
+          ? Object.values(rateObj).filter((v) => v.project_id === projectId)?.[0]
+          : null;
+
+          if (!rateObj) {
+            log(`⚠️ No pricing data found for customer ${customerCode}`);
+            continue;
+          }
+
         let rate = rates?.pricing?.[ip]?.rate;
 
         if (!rate){
