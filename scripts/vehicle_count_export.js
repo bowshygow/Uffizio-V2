@@ -57,7 +57,6 @@ let csvOutput = "Timestamp,Customer Code,Project ID,Project Name,IP Address,Vehi
 
       for (let ip of ips) {
         const runTime = new Date().toISOString();
-
         log(`📡 Calling Uffizio API → ${customerCode} / ${projectId} / IP: ${ip}`);
         try {
           const response = await axios.post(
@@ -77,6 +76,9 @@ let csvOutput = "Timestamp,Customer Code,Project ID,Project Name,IP Address,Vehi
 
           csvOutput += `${runTime},${customerCode},${projectId},${itemName},${ip},${matchCount},${totalCount}\n`;
           log(`✅ ${customerCode} / ${projectId} / ${ip} → ${matchCount} matched out of ${totalCount} total`);
+
+          // Wait for 2 seconds before next request
+          await new Promise(resolve => setTimeout(resolve, 2000));
         } catch (err) {
           const errorMsg = `❌ Error for ${customerCode} / ${projectId} / IP: ${ip} → ${err.response?.data || err.message}`;
           log(errorMsg);
