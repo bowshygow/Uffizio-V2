@@ -10,12 +10,12 @@
  * 
  * Output:
  *   - ../output/vehicle_count_results.csv
- * 
+ *   - ../output/vehicle_count_log_<timestamp>.log (detailed log)
+ *  
  * Notes:
  *   - This script is for testing and verification purposes only.
  *   - No Zoho API calls or token refresh involved.
  */
-
 
 const fs = require("fs");
 const path = require("path");
@@ -25,10 +25,17 @@ const uffizioAPI = "https://zoho.uffizio.com:8445/billingservice/admin/vehicle_d
 const hardcodedStartDate = "2025-04-01 00:00:00";
 const hardcodedEndDate = "2025-04-30 23:59:59";
 
+// Create timestamped log file
+const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
+const logFilePath = path.join(__dirname, `../output/vehicle_count_log_${timestamp}.log`);
+
+function log(msg) {
+  console.log(msg);
+  fs.appendFileSync(logFilePath, `[${new Date().toISOString()}] ${msg}\n`);
+}
+
 // Load input files
-const contactMap = JSON.parse(fs.readFileSync("../data/contact_map.json", "utf-8"));
-const itemMap = JSON.parse(fs.readFileSync("../data/item_map.json", "utf-8"));
-const pricingMap = JSON.parse(fs.readFileSync("../data/customer_map.json", "utf-8"));
+log("📂 Reading input files...");
 const customerData = JSON.parse(fs.readFileSync("../data/customer_project_ip_data_all.json", "utf-8"));
 
 // CSV header
@@ -38,12 +45,16 @@ let csvOutput = "Customer Code,Project ID,Project Name,IP Address,Vehicle Count\
   for (let customer of customerData) {
     const { "Customer Code": customerCode, Projects = [] } = customer;
 
+    log(`\n🔍 Processing customer: ${customerCode}`);
     for (let project of Projects) {
       const projectId = project["Project Id"]?.toString();
       const itemName = project["Project/Product Name"];
       const ips = project["IP Addresses"] || [];
 
+      log(`📁 Project: ${itemName} (ID: ${projectId}) with ${ips.length} IP(s)`);
+
       for (let ip of ips) {
+        log(`📡 Calling Uffizio API → ${customerCode} / ${projectId} / IP: ${ip}`);
         try {
           const response = await axios.post(
             `${uffizioAPI}?pageNo=1&pageSize=100000`,
@@ -60,15 +71,17 @@ let csvOutput = "Customer Code,Project ID,Project Name,IP Address,Vehicle Count\
           const count = records.filter(r => r.ip === ip).length;
 
           csvOutput += `${customerCode},${projectId},${itemName},${ip},${count}\n`;
-          console.log(`✅ ${customerCode} / ${projectId} / ${ip} → ${count} vehicles`);
+          log(`✅ ${customerCode} / ${projectId} / ${ip} → ${count} vehicle(s) found`);
         } catch (err) {
-          console.error(`❌ Error for ${customerCode} / ${projectId} / ${ip}:`, err.response?.data || err.message);
+          const errorMsg = `❌ Error for ${customerCode} / ${projectId} / IP: ${ip} → ${err.response?.data || err.message}`;
+          log(errorMsg);
         }
       }
     }
   }
 
-  const filePath = path.join(__dirname, "../output/vehicle_count_results.csv");
-  fs.writeFileSync(filePath, csvOutput);
-  console.log(`\n📄 Vehicle counts saved to: ${filePath}`);
+  const csvPath = path.join(__dirname, "../output/vehicle_count_results.csv");
+  fs.writeFileSync(csvPath, csvOutput);
+  log(`\n📄 CSV saved to: ${csvPath}`);
+  log(`📘 Full log saved to: ${logFilePath}`);
 })();
