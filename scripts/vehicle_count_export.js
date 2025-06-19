@@ -3,15 +3,15 @@
  * Purpose:
  *   - For each customer/project/IP in `customer_project_ip_data_all.json`
  *   - Call Uffizio API to get vehicle count between a fixed date range
- *   - Output results in a CSV: Customer Code, Project ID, IP, Count
- * 
+ *   - Output results in a CSV: Customer Code, Project ID, IP, Match Count, Total Count, Timestamp
+ *
  * Inputs:
  *   - ../data/customer_project_ip_data_all.json
- * 
- * Output:
+ *
+ * Outputs:
  *   - ../output/vehicle_count_results.csv
  *   - ../output/vehicle_count_log_<timestamp>.log (detailed log)
- *  
+ *
  * Notes:
  *   - This script is for testing and verification purposes only.
  *   - No Zoho API calls or token refresh involved.
@@ -28,24 +28,26 @@ const hardcodedEndDate = "2025-04-30 23:59:59";
 // Create timestamped log file
 const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
 const logFilePath = path.join(__dirname, `../output/vehicle_count_log_${timestamp}.log`);
+const csvFilePath = path.join(__dirname, "../output/vehicle_count_results.csv");
 
 function log(msg) {
-  console.log(msg);
-  fs.appendFileSync(logFilePath, `[${new Date().toISOString()}] ${msg}\n`);
+  const timeStampedMsg = `[${new Date().toISOString()}] ${msg}`;
+  console.log(timeStampedMsg);
+  fs.appendFileSync(logFilePath, timeStampedMsg + "\n");
 }
 
-// Load input files
-log("📂 Reading input files...");
+// Load input file
+log("📂 Reading customer/project/IP input file...");
 const customerData = JSON.parse(fs.readFileSync("../data/customer_project_ip_data_all.json", "utf-8"));
 
-// CSV header
-let csvOutput = "Customer Code,Project ID,Project Name,IP Address,Vehicle Count\n";
+// Prepare CSV output
+let csvOutput = "Timestamp,Customer Code,Project ID,Project Name,IP Address,Vehicle Count (Matching IP),Total Vehicle Records\n";
 
 (async () => {
   for (let customer of customerData) {
     const { "Customer Code": customerCode, Projects = [] } = customer;
+    log(`\n🔍 Processing Customer: ${customerCode}`);
 
-    log(`\n🔍 Processing customer: ${customerCode}`);
     for (let project of Projects) {
       const projectId = project["Project Id"]?.toString();
       const itemName = project["Project/Product Name"];
@@ -54,6 +56,8 @@ let csvOutput = "Customer Code,Project ID,Project Name,IP Address,Vehicle Count\
       log(`📁 Project: ${itemName} (ID: ${projectId}) with ${ips.length} IP(s)`);
 
       for (let ip of ips) {
+        const runTime = new Date().toISOString();
+
         log(`📡 Calling Uffizio API → ${customerCode} / ${projectId} / IP: ${ip}`);
         try {
           const response = await axios.post(
@@ -68,10 +72,11 @@ let csvOutput = "Customer Code,Project ID,Project Name,IP Address,Vehicle Count\
           );
 
           const records = response.data?.data || [];
-          const count = records.filter(r => r.ip === ip).length;
+          const totalCount = records.length;
+          const matchCount = records.filter(r => r.ip === ip).length;
 
-          csvOutput += `${customerCode},${projectId},${itemName},${ip},${count}\n`;
-          log(`✅ ${customerCode} / ${projectId} / ${ip} → ${count} vehicle(s) found`);
+          csvOutput += `${runTime},${customerCode},${projectId},${itemName},${ip},${matchCount},${totalCount}\n`;
+          log(`✅ ${customerCode} / ${projectId} / ${ip} → ${matchCount} matched out of ${totalCount} total`);
         } catch (err) {
           const errorMsg = `❌ Error for ${customerCode} / ${projectId} / IP: ${ip} → ${err.response?.data || err.message}`;
           log(errorMsg);
@@ -80,8 +85,7 @@ let csvOutput = "Customer Code,Project ID,Project Name,IP Address,Vehicle Count\
     }
   }
 
-  const csvPath = path.join(__dirname, "../output/vehicle_count_results.csv");
-  fs.writeFileSync(csvPath, csvOutput);
-  log(`\n📄 CSV saved to: ${csvPath}`);
+  fs.writeFileSync(csvFilePath, csvOutput);
+  log(`\n📄 CSV saved to: ${csvFilePath}`);
   log(`📘 Full log saved to: ${logFilePath}`);
 })();
