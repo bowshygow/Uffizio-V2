@@ -90,4 +90,13 @@ let csvOutput = "Timestamp,Customer Code,Project ID,Project Name,IP Address,Vehi
   fs.writeFileSync(csvFilePath, csvOutput);
   log(`\n📄 CSV saved to: ${csvFilePath}`);
   log(`📘 Full log saved to: ${logFilePath}`);
+
+  // Upload log file to WorkDrive
+  const { uploadFileToWorkDrive } = require("./workdriveUploader");
+  const uploadSuccess = await uploadFileToWorkDrive(logFilePath);
+  if (uploadSuccess) {
+    log("📤 Upload complete.");
+  } else {
+    log("❌ Upload to WorkDrive failed.");
+  }
 })();
