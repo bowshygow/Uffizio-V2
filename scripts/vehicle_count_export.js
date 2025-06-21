@@ -22,8 +22,11 @@ const path = require("path");
 const axios = require("axios");
 
 const uffizioAPI = "https://zoho.uffizio.com:8445/billingservice/admin/vehicle_details";
-const hardcodedStartDate = "2025-04-01 00:00:00";
-const hardcodedEndDate = "2025-04-30 23:59:59";
+const monthlyHardcodedStartDate = "2025-04-01 00:00:00"; // monthly 
+const monthlyHardcodedEndDate = "2025-04-30 23:59:59";
+
+const yearlyHardcodedStartDate = "2024-04-01 00:00:00"  //yearly 
+const yearlyHardcodedEndDate   = "2025-03-31 23:59:59"
 
 // Create timestamped log file
 const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
@@ -51,6 +54,7 @@ let csvOutput = "Timestamp,Customer Code,Project ID,Project Name,IP Address,Vehi
     for (let project of Projects) {
       const projectId = project["Project Id"]?.toString();
       const itemName = project["Project/Product Name"];
+      const billingDuration = project["Billing Duration"];
       const ips = project["IP Addresses"] || [];
 
       log(`📁 Project: ${itemName} (ID: ${projectId}) with ${ips.length} IP(s)`);
@@ -64,8 +68,8 @@ let csvOutput = "Timestamp,Customer Code,Project ID,Project Name,IP Address,Vehi
             {
               adminCode: customerCode,
               projectId,
-              startDate: hardcodedStartDate,
-              endDate: hardcodedEndDate
+              startDate: billingDuration === "Monthly" ? monthlyHardcodedStartDate : yearlyHardcodedStartDate,
+              endDate: billingDuration === "Monthly" ? monthlyHardcodedEndDate : yearlyHardcodedEndDate
             },
             { headers: { "Content-Type": "application/json" } }
           );
@@ -74,8 +78,8 @@ let csvOutput = "Timestamp,Customer Code,Project ID,Project Name,IP Address,Vehi
           const totalCount = records.length;
           const matchCount = records.filter(r => r.ip === ip).length;
 
-          csvOutput += `${runTime},${customerCode},${projectId},${itemName},${ip},${matchCount},${totalCount}\n`;
-          log(`✅ ${customerCode} / ${projectId} / ${ip} → ${matchCount} matched out of ${totalCount} total`);
+          csvOutput += `${runTime},${customerCode},${projectId},${itemName},${ip},${matchCount},${totalCount},${billingDuration}\n`;
+          log(`✅ ${customerCode} / ${projectId} / ${ip} → ${matchCount} matched out of ${totalCount} total ${billingDuration} billing duration`);
 
           // Wait for 2 seconds before next request
           await new Promise(resolve => setTimeout(resolve, 2000));
