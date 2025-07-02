@@ -41,7 +41,7 @@ function log(msg) {
 
 // Load input file
 log("📂 Reading customer/project/IP input file...");
-const customerData = JSON.parse(fs.readFileSync("../data/customer_project_ip_data_all.json", "utf-8"));
+const customerData = JSON.parse(fs.readFileSync("../data/customer_project_ip_data.json", "utf-8"));
 
 // Prepare CSV output
 let csvOutput = "Timestamp,Customer Code,Project ID,Project Name,IP Address,Vehicle Count (Matching IP),Total Vehicle Records\n";
