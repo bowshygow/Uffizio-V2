@@ -22,8 +22,8 @@ const path = require("path");
 const axios = require("axios");
 
 const uffizioAPI = "https://zoho.uffizio.com:8445/billingservice/admin/vehicle_details";
-const monthlyHardcodedStartDate = "2025-04-01 00:00:00"; // monthly 
-const monthlyHardcodedEndDate = "2025-04-30 23:59:59";
+const monthlyHardcodedStartDate = "2025-06-01 00:00:00"; // monthly 
+const monthlyHardcodedEndDate = "2025-06-30 23:59:59";
 
 const yearlyHardcodedStartDate = "2024-04-01 00:00:00"  //yearly 
 const yearlyHardcodedEndDate   = "2025-03-31 23:59:59"
@@ -41,7 +41,7 @@ function log(msg) {
 
 // Load input file
 log("📂 Reading customer/project/IP input file...");
-const customerData = JSON.parse(fs.readFileSync("../data/customer_project_ip_data.json", "utf-8"));
+const customerData = JSON.parse(fs.readFileSync("../data/customer_project_ip_data_all.json", "utf-8"));
 
 // Prepare CSV output
 let csvOutput = "Timestamp,Customer Code,Project ID,Project Name,IP Address,Vehicle Count (Matching IP),Total Vehicle Records\n";
